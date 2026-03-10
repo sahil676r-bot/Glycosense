@@ -1,6 +1,6 @@
-# 🥗 EviNourish
+# 🥗 GlycoSense
 
-**EviNourish** is an AI-powered diabetes nutrition assistant that helps users scan meals, log blood glucose readings, and receive personalised dietary recommendations — all through a clean web interface backed by a robust Python API.
+**GlycoSense** is an AI-powered diabetes nutrition assistant that helps users scan meals, log blood glucose readings, and receive personalised dietary recommendations — all through a clean web interface backed by a robust Python API.
 
 ---
 
